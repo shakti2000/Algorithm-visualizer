@@ -1,6 +1,6 @@
 # Algorithm-Visualization
 
-### <a href = "[www.google.com](https://62a7149011291e25e2755905--profound-malabi-fe4e94.netlify.app/)"> Click here </a> to view website
+### <a href = "www.google.com](https://62a7149011291e25e2755905--profound-malabi-fe4e94.netlify.app/"> Click here </a> to view website
 
 ## Pathfinding Algorithms
 
